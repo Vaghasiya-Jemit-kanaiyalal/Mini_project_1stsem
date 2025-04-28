@@ -1,3 +1,4 @@
+//Simple program of pattern for printig with use of 1 0 
 #include<stdio.h> 
 int main() 
 { 
