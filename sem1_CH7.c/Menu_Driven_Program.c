@@ -1,3 +1,5 @@
+//i have made a menu drivven program for a restaurrant with the usse of while for infinite staring untill user wants to end and 
+//switch case
 #include <stdio.h>
 
 int main() {
