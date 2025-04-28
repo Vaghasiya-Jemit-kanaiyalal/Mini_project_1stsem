@@ -17,3 +17,8 @@ int main()
     fclose(ptr);
     return 0;
 }
+/*If jemit.txt contain this 7 14 21 then,
+    The value of num is : 7
+The value of num is : 14
+The value of num is : 21
+*/
