@@ -1,3 +1,4 @@
+//This is very use full program for counter i have use new library for sleep(1) to Delay by 1 second .....
 #include <stdio.h>
 #include <unistd.h>
 
