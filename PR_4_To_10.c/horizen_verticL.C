@@ -1,4 +1,4 @@
-// This program is written by 24DCS145_JEMIT
+//This program is for  multiplication tabe For better understanding output of this program i wii sugest enterl vertical 10 and horizontal 20 
 #include <stdio.h>
 int main()
 {
