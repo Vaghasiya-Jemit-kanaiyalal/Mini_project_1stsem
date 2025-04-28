@@ -1,3 +1,4 @@
+//Match stick Game with Computer .....
 #include <stdio.h>
 
 int main() {
@@ -49,31 +50,3 @@ int main() {
     return 0;
 }
 
-/**
- * //This program is written by 24DCS145_JEMIT 
-#include<stdio.h> 
-int main() 
-{ 
-int matchstick = 21; 
-while(matchstick>0){ 
-printf("There are total %d matchsticksleft.\n",matchstick); 
-int user_choice; 
-
- 
-do{ 
-printf("Enter the number of matchstick you want to pick up (1 to 4) : "); 
-scanf("%d",&user_choice); 
-}
-while(user_choice >= 1 || user_choice <= 4); 
-
-
-matchstick -= user_choice; 
-int computer_choice = 5 - user_choice; 
-printf("The computer choose %d matchsticks\n",computer_choice); 
-matchstick -= computer_choice; 
-} 
-printf("Computer Wins!\n"); 
-printf("\n\n24DCS145_JEMIT\n"); 
-return 0; 
-}
- */
