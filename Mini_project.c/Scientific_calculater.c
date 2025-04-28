@@ -1,3 +1,6 @@
+//In this code i have done simple coding for a simple calcualtor which can perfrom basic and advanced operation such as logarithem,Trigonomentry , sqaue , cube...etc.
+//This is my First mini project in the starting of my life in Coding and i m happy to sahre it with you....
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
