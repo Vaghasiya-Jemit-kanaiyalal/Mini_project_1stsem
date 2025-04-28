@@ -1,3 +1,4 @@
+//Concpet an d use of triple conditional satement...
 #include <stdio.h>
 
 int main() {
