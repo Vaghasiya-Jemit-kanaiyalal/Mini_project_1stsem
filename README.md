@@ -5,7 +5,7 @@ This repository contains my **1st semester codes** and a **small project** that 
 
 ## 📂 What's Inside
 - ✅ Lab codes from my 1st semester  
-- ✅ A small project (uploaded in the same repo)  
+- ✅ A small project (Study tracker & Scientificc Calculator)  
 - ✅ Practice programs and assignments  
 
 ## 🚀 Purpose
